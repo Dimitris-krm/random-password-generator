@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random Password Generator</string>
+
+    <string name="rate_dialog_title">Custom title</string>
+    <string name="rate_dialog_message">Custom message</string>
+    <string name="rate_dialog_ok">Custom rate now</string>
+    <string name="rate_dialog_cancel">Custom remind later</string>
+    <string name="rate_dialog_no">Custom no</string>
+</resources>
